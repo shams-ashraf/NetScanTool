@@ -59,11 +59,16 @@
    ```bash
    git clone https://github.com/shams-ashraf/network-toolkit.git
    cd network-toolkit
+   
 2-Install the required dependencies:
    pip install scapy
+   
 🧑‍💻 Usage
+
   python network_toolkit.py
+  
 🧭 Application Interface
+
 When launched, the main menu provides the following options:
 
 1. ARP Scanning
