@@ -32,7 +32,7 @@ tkinter (usually comes pre-installed with Python)
 Installation
 Clone the repository (or download the script):
 
-git clone https://github.com/YOUR_USERNAME/network-toolkit.git
+git clone https://github.com/shams-ashraf/network-toolkit.git
 cd network-toolkit
 
 Install scapy:
